@@ -1,0 +1,6 @@
+# ignore sandbox
+src/main.py
+
+**/__pycache__/
+
+
